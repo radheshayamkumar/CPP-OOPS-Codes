@@ -1,5 +1,3 @@
-That's a great idea for a GitHub README\! Here are comprehensive, yet simple notes on C++ OOPs concepts, formatted nicely for your file.
-
 # 🚀 C++ Object-Oriented Programming (OOPs) Concepts
 
 Object-Oriented Programming (OOP) is a programming paradigm that uses the concept of **objects** and **classes**. It aims to implement real-world entities like inheritance, hiding, polymorphism, etc., in programming.
